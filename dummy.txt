@@ -1,7 +1,1 @@
-hellow everyone
-<<<<<<< HEAD
-
-
-=======
-my name is mani barathi
->>>>>>> e10a3d8 (fic small change)
+hello 
